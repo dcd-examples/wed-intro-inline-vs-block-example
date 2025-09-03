@@ -1,0 +1,10 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.span-style {
+    background-color: yellow;
+    font-size: 2rem;
+}
